@@ -6,6 +6,7 @@ BACKTOOL 8fb2650a41315fe9045401dc7d511f7134a1d7e5573032ac2dbcb144a5b7b13a
 VALIDATE 5730f0e6112870ca638a21167e670502ef7fd0fffc2d438c0420e5ac63ac4c6e
 # BKH values to check - use to check validity of specifi files
 BKH de9f83707e8eb38b2028d6f4330f6b5c19a3afac49bb63c7eb8a6ff5e565487a /etc/sshd/sshd_config
+BKH e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 /etc/sshd/sshd_config
 # Backup targets. These are files/directories that shoudl be archived.
 BKT /usr/local/etc/
 BKT /etc/ssh/key
