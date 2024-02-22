@@ -3,7 +3,7 @@
 # The hash value here should be used to check the integrity of the validation tools
 # /opt/security/bin/sectar and /opt/security/bin/validate
 BACKTOOL 5730f0e6112870ca638a21167e670502ef7fd0fffc2d438c0420e5ac63ac4c6e
-VALIDATE 73abb4280520053564fd4917286909ba3b054598b32c9cdfaf1d733e0202cc96
+VALIDATE 825cae03367cb130094a0ccfa4e1bab049a706038023ad4c7e5a0021045cb33d
 # BKH values to check - use to check validity of specifi files
 BKH de9f83707e8eb38b2028d6f4330f6b5c19a3afac49bb63c7eb8a6ff5e565487a /etc/sshd/sshd_config
 # Backup targets. These are files/directories that shoudl be archived.
